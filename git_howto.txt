@@ -1,3 +1,5 @@
+This is commands to push repositories to remote Git server
+
 python_class[master] $ git remote add origin https://github.com/sirericus17/pyth                                                                                              on_code.git
 python_class[master] $ ll
 total 0
@@ -67,3 +69,6 @@ python_class[master +] $ git commit -a -m "created word file"
    python_class[master] $
    python_class[master] $
    python_class[master] $
+
+
+   The -u tells Git to remember the parameters, so that next time we can simply run "git push" and Git will know what to do.
